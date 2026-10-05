@@ -36,7 +36,7 @@
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="powerbi/screenshots/Screenshot_power_bi.png" alt="Global Terrorism Overview Dashboard" width="100%">
+  <img src="Global-Terrorism-Analysis/powerbi/screenshots/Screenshot_power_bi.png" alt="Global Terrorism Overview Dashboard" width="100%">
 </p>
 
 | KPI | Value |
