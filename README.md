@@ -134,7 +134,7 @@ Global-Terrorism-Analysis/
 ## 🔬 Methodology
 
 ### 1. Python: Inspection & Validation
-Loaded the CSV with Pandas, checked dimensions, data types, duplicates, missing values, and malformed records. See [`data/data_loading_by_python.ipynb`](data/data_loading_by_python.ipynb).
+Loaded the CSV with Pandas, checked dimensions, data types, duplicates, missing values, and malformed records. 
 
 ```python
 import pandas as pd
@@ -148,7 +148,7 @@ print("Rows:", gtd.shape[0], "| Columns:", gtd.shape[1])
 ```
 
 ### 2. PostgreSQL: Storage & Cleaning
-Database: `gtd_db`. See [`sql/sql_raw.txt`](sql/sql_raw.txt).
+Database: `gtd_db`. 
 
 ```text
 raw_gtd_events  →  gtd_clean  →  vw_gtd_analysis
